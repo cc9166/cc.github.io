@@ -1,1 +1,1 @@
-This is My ios App
+This is for my ios App
